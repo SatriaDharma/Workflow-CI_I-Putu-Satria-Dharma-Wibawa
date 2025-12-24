@@ -1,3 +1,0 @@
-Catatan: Saat ini Docker Hub sedang mengalami gangguan pada sistem UI (indeks repositori baru tidak muncul di web).
-Namun, image telah berhasil di-push secara teknis ke satriadharma/heart-disease-model:v1. 
-Anda dapat memverifikasi dengan menjalankan perintah docker pull satriadharma/heart-disease-model:v1 di terminal.
